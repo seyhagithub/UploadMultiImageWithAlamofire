@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (4.1.0)
+  - DKImagePickerController (3.4.2):
+    - DKImagePickerController/Camera (= 3.4.2)
+    - DKImagePickerController/ImageManager (= 3.4.2)
+  - DKImagePickerController/Camera (3.4.2)
+  - DKImagePickerController/ImageManager (3.4.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - DKImagePickerController
+
+SPEC CHECKSUMS:
+  Alamofire: e266cf991b933498df791e645e0d8ac294492153
+  DKImagePickerController: 8fc8a42120cb0c9b7982af04d47e0e5b25b5186f
+
+PODFILE CHECKSUM: 2e38e940427a70ed121821571194b9df19b42ff0
+
+COCOAPODS: 1.2.0.beta.1
